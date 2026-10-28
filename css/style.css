@@ -153,6 +153,14 @@ p{ margin:0; }
   gap: 48px;
   align-items:center;
 }
+.sap-badge{
+  height: 34px;
+  width: auto;
+  margin-bottom: 18px;
+  background: var(--paper);
+  border-radius: 8px;
+  padding: 6px 12px;
+}
 .eyebrow{
   text-transform: uppercase;
   letter-spacing: 0.14em;
